@@ -29,3 +29,5 @@ Se hizo un diagrama de clase en la app Lucichard la cual está en el siguiente l
 
 ## Referencias
 Filipek, B. (2017). C++17 In Detail (Free ed.). Bfilipek.
+Braga, F. (2006). Manual de ajedrez. Dirección General de Promoción Deportiva.
+
