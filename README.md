@@ -12,7 +12,7 @@
 Implementar un juego de ajedrez mediante los conceptos vistos en clase. Por ejemplo el uso de hilos, contenedores y la librería std.
 
 ## Descripcion de las funciones generales del programa:
-Se creará un juego de ajedrez partiendo de la implementación de un tablero funcional y las piezas. Cada pieza será una hija de la clase principal y se crearán por medio de builders. Asimismo, el bucle del juego poseerá hilos para así mejorar el procesamiento del programa. El sistema de juego será por turnos en donde se enfrentará un jugador principal, el cual posee piezas blancas y un jugador secundario el cual tiene fichas negras. Por otro lado se implementará un bot el cuál servirá como ayuda para el jugador secundario, ya que indicará los mejores movimientos según la ficha que escoja para mover; estos movimientos serán determinados por parámetros que serán atributos de todas las clases de piezas.
+Se creará un juego de ajedrez partiendo de la implementación de un tablero funcional y las piezas. Cada pieza será una hija de la clase principal y se crearán por medio de builders. Asimismo, el bucle del juego poseerá hilos para así mejorar el procesamiento del programa. El sistema de juego será por turnos en donde se enfrentará un jugador principal, el cual posee piezas blancas y un jugador secundario el cual tiene fichas negras. Por otro lado se tenía planeado implementar un bot el cuál servirá como ayuda para el jugador secundario, ya que indicará los mejores movimientos según la ficha que escoja para mover; estos movimientos serán determinados por parámetros que serán atributos de todas las clases de piezas.
 
 ## Librerías y/o componentes que se requieran: 
 | Numeracion | Librerias  |
