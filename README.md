@@ -26,3 +26,6 @@ Se creará un juego de ajedrez partiendo de la implementación de un tablero fun
 
 ## Diagrama de clases:
 Se hizo un diagrama de clase en la app Lucichard la cual está en el siguiente link:  [Diagrama de clases](https://lucid.app/lucidchart/956e866e-1583-476b-8941-98ed22aa17a0/edit?shared=true&invitationId=inv_afc18feb-b981-420f-b363-0468eb96734a&page=HWEp-vi-RSFO#)
+
+## Referencias
+Filipek, B. (2017). C++17 In Detail (Free ed.). Bfilipek.
